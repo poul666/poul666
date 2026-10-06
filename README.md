@@ -1,5 +1,4 @@
 - 👋 Привет, я seo специалист Павел Мешков
-- 🌱 Храню здесь макеты для клиентов
 
 <!---
 poul666/poul666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
